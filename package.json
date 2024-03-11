@@ -1,0 +1,21 @@
+{
+  "name": "contipay-js",
+  "version": "1.0.1",
+  "description": "ContiPay JS Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Nigel Jaure",
+    "email": "nigel.jaure@contitouch.co.zw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/njzw/contipay-js-client.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
